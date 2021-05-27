@@ -7,9 +7,10 @@ For any query
 # FORK AT YOUR OWN RISK
 # Installing
 
-### The Easy Way
+# 🏃‍♂️ Easy Deploy 
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KING-USER1/BLACK-GHOULS-USERBOT-.git)
+
 
 ### The Normal Way
 
